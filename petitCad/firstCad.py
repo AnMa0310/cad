@@ -1,4 +1,4 @@
-# this is for cad 
+# this is for cad and mainly start for me
 # reference : https://imagingsolution.net/program/python/tkinter/canvas_drawing_lines_circles_shapes/
 # reference : https://water2litter.net/rum/post/python_tkinter_canvas_draw/
 # reference : https://teratail.com/questions/161471
